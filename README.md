@@ -1,2 +1,1 @@
-# DiversyHUB-API
-# PROJETOPokemon
+
